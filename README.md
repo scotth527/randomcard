@@ -1,4 +1,6 @@
-# Hello World with Vanilla JS
+# Random Card Generator
+
+![Random Card](https://hippolms-storage.s3.amazonaws.com/wiz/gifs/311529/5621.gif?AWSAccessKeyId=AKIAJXRM4YAH2A46K76A&Expires=1545076135&Signature=yHAk%2bhkbIt3OpMCjxikYpQJ5AfY=&response-content-disposition=attachment;%20filename=New%2520GIF.gif)
 
 #### Make sure you have node version 8
 ```sh
