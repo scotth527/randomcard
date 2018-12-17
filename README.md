@@ -6,7 +6,7 @@ A simple random card generator that uses a vanilla-js boilerplate, bootstrap, HT
 
 ## Live App: [https://scotth527.github.io/randomcard/](https://scotth527.github.io/randomcard/)
 
-Built from the 4GeeksAcademy vanilla-js boilerplate here: [https://github.com/4GeeksAcademy/react-hello] (https://github.com/4GeeksAcademy/react-hello)
+## Built from the 4GeeksAcademy vanilla-js boilerplate here: [https://github.com/4GeeksAcademy/react-hello](https://github.com/4GeeksAcademy/react-hello)
 
 
 # Hello World with Vanilla JS
